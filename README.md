@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Amaan and I am a Senior iOS Engineer.
+
+- 🔭 I’m developing ios mobile apps using **Swift** since it was introduced in **2014**.
+- 🌱 I’m currently learning **React Native** and in the past learnt **Flutter**.
+- 👯 I’m looking to collaborate on something that makes people life easier.
+- 💬 Ask me about different types of **App Architecures, Testability, Scalability**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaan-ullah/) | [Facebook](https://web.facebook.com/profile.php?id=100004037021531) | [Instagram](https://www.instagram.com/amaankhangamer/)
+- 😄 Pronouns: **he/him**.
+- ⚡ Fun fact: I like to play story and adventure **video games** and **Red Dead Redemption II** is one of my favourite.
 
 <!--
 **amaanullahkhan/amaanullahkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
