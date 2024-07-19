@@ -7,7 +7,7 @@ My name is Amaan and I am a Senior iOS Engineer.
 - 💬 Ask me about different types of **App Architecures, Testability, Scalability**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaan-ullah/) | [Facebook](https://web.facebook.com/profile.php?id=100004037021531) | [Instagram](https://www.instagram.com/amaankhangamer/)
 - 😄 Pronouns: **he/him**.
-- ⚡ Fun fact: I like to play story and adventure **video games** and **Red Dead Redemption II** is one of my favourite.
+- ⚡ Fun fact: I like to play story and adventure **video games** and **Red Dead Redemption II** is one of my favourites.
 
 <!--
 **amaanullahkhan/amaanullahkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
